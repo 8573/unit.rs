@@ -1,0 +1,10 @@
+[package]
+name = "unit"
+version = "0.1.0"
+authors = ["c74d <8573dd@gmail.com>"]
+description = "A library for interaction with units of measurement"
+repository = "https://gitlab.com/unit.rs/unit.rs.git"
+license = "CDDL-1.1"
+keywords = ["unit", "units", "measure", "measurement", "conversion"]
+
+[dependencies]
